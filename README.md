@@ -13,14 +13,3 @@
 * Shipping confirmation - Sent to the customer when an order is shipped
 * Shipping update	- Sent to the customer when an order's shipping information is updated
 
-![alt text](https://github.com/Cam/Shopify-HTML-Email-Templates/raw/master/demo-come-back.jpg "Demo Example")
-
-Don't forget to convert your final markup to inline styles so email software doesnt mess it up!
-
-You can do that here: 
-
-http://zurb.com/ink/inliner.php
-
-### More Info
-
-Contact me at http://camgould.com for more info
